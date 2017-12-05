@@ -1,2 +1,43 @@
 @charset "utf-8";
 /* CSS Document */
+body
+{
+	background: url(../img/4.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	margin: 0;
+	
+}
+.fondo-caja
+{
+	height: 35vh;
+	width: 100%;
+	background:hsla(196,75%,45%,0.94);
+	position: fixed;
+		
+}
+.m0
+{
+	margin:0px; 
+		
+}
+.peque{
+	font-size: 0.8em;
+	margin: 1rem;
+	
+}
+.unico
+{
+	position: absolute;
+
+        display:block;
+
+        top:0px;
+
+        left:0px;
+}
+.logo
+{
+	margin-top: 1rem;
+}
