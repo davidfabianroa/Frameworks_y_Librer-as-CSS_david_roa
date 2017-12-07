@@ -56,3 +56,15 @@ body
 {
 	text-align: justify!important;
 }
+svg a
+{
+	transition-property: all;
+	transition-duration: 0.5s;
+	
+}
+svg a:hover
+       { opacity: 0.5;
+	 transform: scale(1.1);
+		    
+		 
+} 
